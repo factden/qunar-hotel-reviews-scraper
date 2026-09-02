@@ -8,6 +8,9 @@ API key, no code.
 
 - **Run it:** [apify.com/factden/qunar-hotel-reviews-scraper](https://apify.com/factden/qunar-hotel-reviews-scraper?fpr=factden)
 - **Output fields:** see [FIELDS.md](./FIELDS.md)
+- **Watch the demo:** [YouTube walkthrough](https://youtu.be/7rDM-AK6Xug)
+
+<p align="center"><a href="https://youtu.be/7rDM-AK6Xug"><img src="https://i.ytimg.com/vi/7rDM-AK6Xug/hqdefault.jpg" width="600" alt="Watch the Qunar Hotel Reviews Scraper walkthrough on YouTube"></a></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/factden/apify-actor-assets/main/qunar-hotel-reviews-scraper/02-reviews-overview.png" width="1100" alt="Qunar Hotel Reviews Scraper Reviews dataset Overview showing per-review rating, sub-ratings, title, text, sentiment, travel type and owner response for a Qunar hotel"></p>
 
