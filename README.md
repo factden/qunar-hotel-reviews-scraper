@@ -30,6 +30,7 @@ Qunar's own China local time (UTC+8), matching qunar.com.
 
 ## More FactDen review scrapers
 
+- [Fliggy Hotel Reviews Scraper](https://apify.com/factden/fliggy-hotel-reviews-scraper?fpr=factden)
 - [Trip.com & Ctrip Reviews Scraper](https://apify.com/factden/ctrip-trip-reviews-scraper?fpr=factden)
 - [Agoda Hotel Reviews Scraper](https://apify.com/factden/agoda-hotel-reviews-scraper?fpr=factden)
 - [Google Hotels Scraper](https://apify.com/factden/google-hotels-scraper?fpr=factden)
