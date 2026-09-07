@@ -41,3 +41,4 @@ Qunar's own China local time (UTC+8), matching qunar.com.
 - [Hotels.com Reviews Scraper](https://apify.com/factden/hotels-com-reviews-scraper?fpr=factden)
 - [MakeMyTrip Scraper](https://apify.com/factden/makemytrip-scraper?fpr=factden)
 - [Airbnb Data Scraper](https://apify.com/factden/airbnb-data-scraper?fpr=factden)
+- [Traveloka Hotel & Activity Reviews Scraper](https://apify.com/factden/traveloka-hotel-reviews-scraper?fpr=factden) - Traveloka hotel & Xperience activity reviews with 1-10 ratings, category sub-scores, owner replies & English translation ([docs](https://github.com/factden/traveloka-hotel-reviews-scraper))
